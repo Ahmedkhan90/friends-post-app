@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/friends-post-app/static/css/main.30af53cc.chunk.css",
+    "main.js": "/friends-post-app/static/js/main.432c6fc8.chunk.js",
+    "main.js.map": "/friends-post-app/static/js/main.432c6fc8.chunk.js.map",
+    "runtime-main.js": "/friends-post-app/static/js/runtime-main.9825102a.js",
+    "runtime-main.js.map": "/friends-post-app/static/js/runtime-main.9825102a.js.map",
+    "static/js/2.5c04e49a.chunk.js": "/friends-post-app/static/js/2.5c04e49a.chunk.js",
+    "static/js/2.5c04e49a.chunk.js.map": "/friends-post-app/static/js/2.5c04e49a.chunk.js.map",
+    "index.html": "/friends-post-app/index.html",
+    "static/css/main.30af53cc.chunk.css.map": "/friends-post-app/static/css/main.30af53cc.chunk.css.map",
+    "static/js/2.5c04e49a.chunk.js.LICENSE.txt": "/friends-post-app/static/js/2.5c04e49a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9825102a.js",
+    "static/js/2.5c04e49a.chunk.js",
+    "static/css/main.30af53cc.chunk.css",
+    "static/js/main.432c6fc8.chunk.js"
+  ]
+}
