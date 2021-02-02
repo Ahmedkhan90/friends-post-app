@@ -28,6 +28,7 @@ code {
   padding-left: 2%;
   padding-bottom: 5%;
   background-color:  white;
+
 }
 
 .post-img {
@@ -45,7 +46,7 @@ code {
 
 #FBname {
   width: 98%;
-  border-radius: 300px;
+  /* border-radius: 300px; */
   text-align: center;
   height: 30px;
 }
@@ -53,7 +54,7 @@ code {
 #FBpostText {
   margin-top: 2%;
   width: 98%;
-  border-radius: 300px;
+  /* border-radius: 300px; */
   text-align: center;
 }
 
@@ -62,7 +63,7 @@ code {
   height: 2rem;
   background-color: white;
   border: 1px solid blue;
-  border-radius: 20px;
+  /* border-radius: 20px; */
   color: rgb(58, 58, 241);
   font-weight: bolder;
   font-size: 20px;
@@ -108,7 +109,7 @@ code {
   background-color:  white; /* Blue */
   border: none;
   color:  blue;
-  padding: 15px 65px;
+  padding: 15px 45px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -125,4 +126,8 @@ code {
   /* border: 1px solid black; */
   margin-bottom: -60px;
   /* margin-right: 5px; */
+}
+.faComment{
+  background: white;
+  color: white;
 }

@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faComment, faShare, faThumbsUp } from '@fortawesome/free-solid-svg-icons'
+
+
 
 
 //FIRST METHOD
@@ -74,9 +78,9 @@ const FrienrBookCard = () => {
             <h6 className={"poststyle"}>{eachItem.postText}</h6>
             
             <div className={"btn3"}>
-            <button className={"like"}>Like</button>
-            <button className={"comt"} >Comment</button>
-            <button className={"share"}>Share</button>
+            <button className={"like"}><FontAwesomeIcon icon={faThumbsUp} />Like</button>
+            <button className={"comt"} ><FontAwesomeIcon icon={faComment} />Comment</button>
+            <button className={"share"}><FontAwesomeIcon icon={faShare} />Share</button>
             
             </div> 
           </div>
