@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faComment, faShare, faThumbsUp } from '@fortawesome/free-solid-svg-icons'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
@@ -55,7 +56,7 @@ const FrienrBookCard = () => {
       <br/>
       <textarea required placeholder="what is in your mind" type="text" id="FBpostText" />
       <br/>
-      <button className={"formBtn"}> Post </button>
+      <button className="btn btn-outline-primary"> Post </button>
       </form>
 
       { console.log("data: ", data)}

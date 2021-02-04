@@ -132,3 +132,7 @@ code {
   background: white;
   color: white;
 }
+.btn-outline-primary{
+  width: 20%;
+  margin-left: 150px;
+}
